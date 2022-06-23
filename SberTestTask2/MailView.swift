@@ -1,8 +1,8 @@
 //
 //  MailView.swift
-//  SberTestTask
+//  SberTestTask2
 //
-//  Created by Матвей on 21.06.2022.
+//  Created by Матвей on 22.06.2022.
 //
 
 import SwiftUI
